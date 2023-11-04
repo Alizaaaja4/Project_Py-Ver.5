@@ -1,6 +1,6 @@
 <h1 align="center">Project ChatterBox AI </h1>
 
-<h1 align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,kubernetes,docker,jenkins,python" alt="Tubes Daskom"></a></h1>
+<h1 align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,docker,jenkins,python" alt="Tubes Daskom"></a></h1>
 
 Project : ChatterBox AI
 
